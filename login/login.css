@@ -1,0 +1,40 @@
+body, html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url('https://images.thedirect.com/media/article_full/netflix-cancelled-shows.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+    .login-box {
+        background-color: #e5d6d644;
+        padding: 70px ;
+        border-radius: 8px;
+        width: 300px;
+    
+}
+
+.textbox input {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.btn {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #0f1418;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
